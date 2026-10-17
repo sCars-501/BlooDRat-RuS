@@ -9,4 +9,7 @@
 🔴 EN | English
 Blood-red elegance. 🩸
 A sleek, practical version with a premium design, fully customized by SCARS. 🩸
+
+
+# BlooDRat - RuS
 ![BlooDRat - RuS](https://github.com/sCars-501/BlooDRat-RuS/blob/ef7730b5bd822326190c04775c23500a17cb7d1c/BlooD%20-%20RuS.jpg)
