@@ -9,3 +9,4 @@
 🔴 EN | English
 Blood-red elegance. 🩸
 A sleek, practical version with a premium design, fully customized by SCARS. 🩸
+![Jeff-Killer](https://raw.githubusercontent.com/sCars-501/Jeff-Killer/ba5c00460aa6a324867e8155c47cd4832d6c452c/Jeff-Killer.jpg)
